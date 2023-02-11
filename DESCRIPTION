@@ -1,0 +1,8 @@
+Type: Package
+Package: CoLRevR
+Title: Collaborative Literature Reviews
+Version: 0.0.1.0
+Encoding: UTF-8
+RoxygenNote: 7.2.3
+Imports: 
+    bib2df
